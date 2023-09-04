@@ -1,8 +1,9 @@
 # Tableau-Repo
 
-This is the repository for my work on Tableau.  
+This repository contains my work in Tableau.  
 
-**Link to Tableau Public** - https://public.tableau.com/app/profile/amith.lokhande 
+Some images cannot be viewed on GitHub due to the naming of the folders and other constraints. Due to this issue, I have uploaded my dashboards to Google Drive as well. The link is below
 
-**Note** - Some elements in the dashboard images are misplaced while downloading the image from Tableau Public server. This is because the size of the image is different from the dimensions set while creating the dashboard.
+**Link to Google Drive** - [https://public.tableau.com/app/profile/amith.lokhande](https://drive.google.com/drive/folders/1eTLrqD4Z4QTiKOjnEz-HH0Jg340mqiTW?usp=sharing) 
 
+**Note** - Some elements in the dashboard images, such as filters placed at the top of the dashboard, are misplaced when downloading the image from the Tableau Public server. 
