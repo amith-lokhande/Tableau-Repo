@@ -2,8 +2,13 @@
 
 This repository contains my work in Tableau.
 
-Some images cannot be viewed on GitHub due to the naming of the folders and other constraints. Due to this issue, I have uploaded my dashboards to Google Drive as well. The link is below.
+Due to certain constraints and naming conventions, some images may not be visible on GitHub. Therfore, I have also uploaded my dashboards on Google Drive as well. The link is provided below (click on Google Drive). 
 
-**Link to Google Drive** - [Google Drive](https://drive.google.com/drive/folders/1eTLrqD4Z4QTiKOjnEz-HH0Jg340mqiTW?usp=sharing) 
+**Link to Google Drive** - [Google Drive](https://tinyurl.com/2s3896ww) 
 
-**Note** - Some elements in the dashboard (such as filters placed at the top) are misplaced when downloading the image from the Tableau Public server. These changes can be found in the file itself. 
+**Note** - Some elements in the dashboard images (such as filters placed at the top) are either misplaced or do not appear when downloading the image from Tableau Public Server. These changes can be found in the tableau file itself.
+
+
+
+
+
